@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
 
 #Region " Declare "
 
@@ -121,19 +121,12 @@
 #Region " Process Monitor "
 
     Public Sub StartMonitor(ByVal TargetProcess As Process)
-        Dim Asynctask As New Task(New Action(Async Sub()
+        Dim Asynctask As New Task(New Action(Sub()
 
                                                  For i As Integer = 0 To 2
                                                      Try
 
-                                                         If TargetProcess Is Nothing Then
-                                                             Me.BeginInvoke(Sub()
-                                                                                Me.ProgressBar1.Visible = False
-                                                                                Me.Height = 180
-                                                                                Me.ProgressBar1.Value = 0
-                                                                            End Sub)
-                                                             Exit Sub
-                                                         ElseIf CheckProcess(TargetProcess.Id) = False Then
+                                                         If CheckProcess(TargetProcess.Id) = False Then
                                                              Me.BeginInvoke(Sub()
                                                                                 Me.ProgressBar1.Visible = False
                                                                                 Me.Height = 180
@@ -142,7 +135,7 @@
                                                              Exit Sub
                                                          End If
 
-                                                     Catch ex As IO.FileNotFoundException
+                                                     Catch ex As Exception
                                                          Me.BeginInvoke(Sub()
                                                                             Me.ProgressBar1.Visible = False
                                                                             Me.Height = 180
