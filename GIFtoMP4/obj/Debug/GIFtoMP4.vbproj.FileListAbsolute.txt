@@ -1,0 +1,11 @@
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\bin\Debug\GIFtoMP4.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\bin\Debug\GIFtoMP4.exe
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\bin\Debug\GIFtoMP4.pdb
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\bin\Debug\GIFtoMP4.xml
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.vbprojResolveAssemblyReference.cache
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.exe
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.xml
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\GIFtoMP4\GIFtoMP4\obj\Debug\GIFtoMP4.pdb
